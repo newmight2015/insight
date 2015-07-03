@@ -1,0 +1,481 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Insight\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: bn\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.10\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: public/views/transaction/tx.html
+msgid "(Input unconfirmed)"
+msgstr "(ইনপুট অনিশ্চিত)"
+
+#: public/views/404.html
+msgid "404 Page not found :("
+msgstr "৪০৪ পৃষ্ঠা পাওয়া যায়নি :("
+
+#: public/views/index.html
+msgid ""
+"<strong>ExploreBTCD</strong>  is an open-source BitcoinDark blockchain "
+"explorer with REST and websocket API. You can search for any BTCD address, "
+"block, transaction. Simply enter your query in the search box and hit enter."
+msgstr ""
+"<strong>ExploreBTCD</strong> REST ও WebSocket API সাথে সম্মিলিত একটি ওপেন "
+"সোর্স BitcoinDark blockchain এক্সপ্লোরার। আপনি যে কোনো BTCD ঠিকানা, ব্লক, "
+"লেনদেনের জন্য অনুসন্ধান করতে পারেন। শুধুমাত্র সার্চ বক্সে আপনার প্রশ্ন লিখুন এবং এন্টার "
+"চাপুন।"
+
+#: public/views/index.html
+msgid "If you see any issue or have a feedback, tweet"
+msgstr "আপনি যদি কোন সমস্যা বা ত্রুটি দেখতে পান, দয়া করে Tweet করুন @explorebtcd"
+
+#: public/views/index.html
+msgid "<strong>Donations</strong> are welcome:"
+msgstr "<strong>অনুদান</strong> স্বাগতম"
+
+#: public/views/index.html
+msgid "About"
+msgstr "কিছু কথা"
+
+#: public/views/address.html
+msgid "Address"
+msgstr "ঠিকানা"
+
+#: public/views/index.html
+msgid "Age"
+msgstr "সময়"
+
+#: public/views/status.html
+msgid "Application Status"
+msgstr "অ্যাপ্লিকেশনের অবস্থা"
+
+#: public/views/status.html
+msgid "Best Block"
+msgstr "সেরা ব্লক"
+
+#: public/views/status.html
+msgid "BitcoinDark node information"
+msgstr "BitcoinDark নোড তথ্য"
+
+#: public/views/block.html
+msgid "Block"
+msgstr "ব্লক"
+
+#: public/views/block.html
+msgid "Block Reward"
+msgstr "ব্লক পুরস্কার"
+
+#: public/views/block_list.html public/views/dummy-translations.html
+#: public/views/status.html
+msgid "Blocks"
+msgstr "ব্লক"
+
+#: public/views/status.html
+msgid "Bytes Serialized"
+msgstr "বাইট ধারাবাহিকতা"
+
+#: public/views/includes/connection.html
+msgid ""
+"Can't connect to BitcoinDarkd to get live updates from the p2p network. "
+"(Tried connecting to BitcoinDarkd at {{host}}:{{port}} and failed.)"
+msgstr ""
+"P2P নেটওয়ার্ক থেকে লাইভ আপডেট পেতে BitcoinDarkd সাথে সংযোগ করা যাচ্ছে না . "
+"{{host}}:{{port}} এ BitcoinDarkd'র সাথে সংযোগের চেষ্টা করা হয়েছে এবং তা ব্যর্থ "
+"হয়েছে।)"
+
+#: public/views/includes/connection.html
+msgid "Can't connect to ExploreBTCD server. Attempting to reconnect..."
+msgstr ""
+"ExploreBTCD সার্ভারের সাথে সংযোগ করা যাচ্ছে না. পুনরায় সংযোগ স্থাপনের চেষ্টা করা "
+"হচ্ছে..."
+
+#: public/views/includes/connection.html
+msgid "Can't connect to internet. Please, check your connection."
+msgstr "ইন্টারনেটের সাথে সংযোগ স্থাপন করা যায়নি। আপনার সংযোগ চেক করুন।"
+
+#: public/views/status.html
+msgid "Complete"
+msgstr "সম্পন্ন হয়েছে"
+
+#: public/views/transaction.html public/views/transaction/tx.html
+msgid "Confirmations"
+msgstr "নিশ্চয়তা"
+
+#: public/views/includes/header.html
+msgid "Supply"
+msgstr "যোগান"
+
+#: public/views/status.html
+msgid "Nodes Connected"
+msgstr "সংযুক্ত নোডের সংখ্যা"
+
+#: public/views/status.html
+msgid "Current Blockchain Tip (ExploreBTCD)"
+msgstr "বর্তমান Blockchain টিপ (ExploreBTCD)"
+
+#: public/views/status.html
+msgid "Current Sync Status"
+msgstr "সিঙ্কের বর্তমান অবস্থা"
+
+#: public/views/transaction.html
+msgid "Details"
+msgstr "বিস্তারিত"
+
+#: public/views/block.html
+msgid "Difficulty"
+msgstr "কঠিনতা"
+
+#: public/views/transaction/tx.html
+msgid "Double spent attempt detected. From tx:"
+msgstr "ডাবল ব্যয় প্রচেষ্টা সনাক্ত করা হয়েছে. TX থেকে:"
+
+#: public/views/includes/connection.html
+msgid "Error!"
+msgstr "ত্রুটি!"
+
+#: public/views/transaction/tx.html
+msgid "Fee"
+msgstr "খরচ"
+
+#: public/views/address.html
+msgid "Final Balance"
+msgstr "চূড়ান্ত ব্যালেন্স"
+
+#: public/views/status.html
+msgid "Finish Date"
+msgstr "শেষ হবার তারিখ"
+
+#: public/views/404.html
+msgid "Go to home"
+msgstr "হোমপেজে যান"
+
+#: public/views/status.html
+msgid "Hash Serialized"
+msgstr "হ্যাশের ধারাবাহিকতা"
+
+#: public/views/block.html public/views/block_list.html
+#: public/views/index.html public/views/status.html
+#: public/views/includes/header.html
+msgid "Height"
+msgstr "উচ্চতা"
+
+#: public/views/transaction.html public/views/transaction/tx.html
+msgid "Included in Block"
+msgstr "ব্লকের মধ্যে অন্তর্ভুক্ত"
+
+#: public/views/transaction/tx.html
+msgid "Incoherence in levelDB detected:"
+msgstr "LevelDB'র মধ্যে বিচ্ছিন্নতা সনাক্ত হয়েছে:"
+
+#: public/views/status.html
+msgid "Info Errors"
+msgstr "তথ্য ত্রুটি"
+
+#: public/views/status.html
+msgid "Initial Block Chain Height"
+msgstr "সর্বশেষ ব্লক চেইন উচ্চতা"
+
+#: public/views/transaction.html
+msgid "Input"
+msgstr "ইনপুট"
+
+#: public/views/status.html
+msgid "Last Block"
+msgstr "সর্বশেষ ব্লক"
+
+#: public/views/status.html
+msgid "Last Block Hash (BitcoinDarkd)"
+msgstr "সর্বশেষ ব্লক হ্যাশ (BitcoinDarkd)"
+
+#: public/views/index.html
+msgid "Latest Blocks"
+msgstr "সর্বশেষ ব্লকসমূহ"
+
+#: public/views/index.html
+msgid "Latest Transactions"
+msgstr "সর্বশেষ লেনদেন"
+
+#: public/views/address.html
+msgid "Loading Address Information"
+msgstr "ঠিকানার তথ্য লোড হচ্ছে"
+
+#: public/views/block.html
+msgid "Loading Block Information"
+msgstr "ব্লকের তথ্য লোড হচ্ছে"
+
+#: public/views/block_list.html
+msgid "Loading Selected Date..."
+msgstr "নির্বাচিত তারিখ লোড হচ্ছে ..."
+
+#: public/views/transaction.html
+msgid "Loading Transaction Details"
+msgstr "লেনদেনের বিবরণ লোড হচ্ছে"
+
+#: public/views/transaction/list.html
+msgid "Loading Transactions..."
+msgstr "লেনদেন লোড হচ্ছে ..."
+
+#: public/views/includes/infoStatus.html
+msgid "Loading..."
+msgstr "লোড হচ্ছে ..."
+
+#: public/views/transaction.html
+msgid "Block Time"
+msgstr "ব্লকের সময়"
+
+#: public/views/transaction/list.html
+msgid "PoS Block"
+msgstr "PoS ব্লক"
+
+#: public/views/block.html public/views/block_list.html
+#: public/views/index.html
+msgid "Found by"
+msgstr "অনুসন্ধানদাতা"
+
+#: public/views/status.html
+msgid "PoS Difficulty"
+msgstr "PoS কঠিনতা"
+
+#: public/views/status.html
+msgid "PoW Difficulty"
+msgstr "PoW কঠিনতা"
+
+#: public/views/status.html
+msgid "Total Supply"
+msgstr "মোট সরবরাহ"
+
+#: public/views/block.html
+msgid "Next Block"
+msgstr "পরবর্তী ব্লক"
+
+#: public/views/transaction/tx.html
+msgid "No Inputs (Newly Generated Coins)"
+msgstr "কোন ইনপুট নেই (নতুন জন্ম নেয়া মুদ্রা)"
+
+#: public/views/block_list.html
+msgid "No blocks yet."
+msgstr "এখনও কোন ব্লক নেই।"
+
+#: public/views/includes/header.html public/views/includes/search.html
+msgid "No matching records found!"
+msgstr "কোন মানানসই রেকর্ড পাওয়া যায় নি!"
+
+#: public/views/address.html
+msgid "No. Transactions"
+msgstr "লেনদেন নং"
+
+#: public/views/block.html
+msgid "Number Of Transactions"
+msgstr "লেনদেনের সংখ্যা"
+
+#: public/views/transaction.html
+msgid "Output"
+msgstr "আউটপুট"
+
+#: public/views/index.html
+msgid "Powered by"
+msgstr ""
+
+#: public/views/block.html
+msgid "Previous Block"
+msgstr "পূর্ববর্তী ব্লক"
+
+#: public/views/status.html
+msgid "Protocol version"
+msgstr "প্রোটোকল সংস্করণ"
+
+#: public/views/status.html
+msgid "Proxy setting"
+msgstr "প্রক্সি সেটিং"
+
+#: public/views/transaction.html
+msgid "Received Time"
+msgstr "গৃহীত সময়"
+
+#: public/views/redirect.html
+msgid "Redirecting..."
+msgstr "পুনঃনিরধারিত পথে নিয়ে যাওয়া হচ্ছে..."
+
+#: public/views/includes/header.html
+msgid "Search for block, transaction or address"
+msgstr "ব্লক, লেনদেন বা ঠিকানা অনুসন্ধান করুন"
+
+#: public/views/index.html
+msgid "See all blocks"
+msgstr "সমস্ত ব্লক দেখুন"
+
+#: public/views/status.html
+msgid "Show Transaction Output data"
+msgstr "লেনদেনের আউটপুট তথ্য দেখান"
+
+#: public/views/transaction/tx.html
+msgid "Show all"
+msgstr "সব দেখান"
+
+#: public/views/transaction/tx.html
+msgid "Show input"
+msgstr "ইনপুট দেখান"
+
+#: public/views/transaction/tx.html
+msgid "Show less"
+msgstr "কম দেখান"
+
+#: public/views/transaction/tx.html
+msgid "Show more"
+msgstr "আরও দেখান"
+
+#: public/views/block_list.html public/views/index.html
+#: public/views/transaction.html
+msgid "Size"
+msgstr "আকার"
+
+#: public/views/block.html
+msgid "Size (bytes)"
+msgstr "আকার (বাইট)"
+
+#: public/views/status.html
+msgid "Skipped Blocks (previously synced)"
+msgstr "এরিয়ে যাওয়া ব্লক (পূর্বে সিঙ্ক করা)"
+
+#: public/views/status.html
+msgid "Start Date"
+msgstr "শুরু করার তারিখ"
+
+#: public/views/dummy-translations.html
+msgid "Status"
+msgstr "অবস্থা"
+
+#: public/views/block.html public/views/transaction.html
+msgid "Summary"
+msgstr "সারাংশ"
+
+#: public/views/address.html
+msgid "Summary <small>confirmed</small>"
+msgstr "সারাংশ <small>নিশ্চিত</small>"
+
+#: public/views/status.html
+msgid "Sync Progress"
+msgstr "সিঙ্কের অগ্রগতি"
+
+#: public/views/status.html
+msgid "Sync Status"
+msgstr "সিঙ্কের অবস্থা"
+
+#: public/views/status.html
+msgid "Sync Type"
+msgstr "সিঙ্কের প্রকার"
+
+#: public/views/status.html
+msgid "Synced Blocks"
+msgstr "সিঙ্ক করা ব্লক"
+
+#: public/views/status.html
+msgid "Testnet"
+msgstr "টেস্ট নেট"
+
+#: public/views/transaction/list.html
+msgid "There are no transactions involving this address."
+msgstr "এই ঠিকানার সাথে জড়িত আর কোন লেনদেন নেই"
+
+#: public/views/status.html
+msgid "Time Offset"
+msgstr "সময় নির্ধারন"
+
+#: public/views/block.html
+msgid "Timestamp"
+msgstr "টাইমস্ট্যাম্প"
+
+#: public/views/block_list.html
+msgid "Today"
+msgstr "আজ"
+
+#: public/views/status.html
+msgid "Total Amount"
+msgstr "মোট পরিমাণ"
+
+#: public/views/address.html
+msgid "Total Received"
+msgstr "মোট গৃহীত"
+
+#: public/views/address.html
+msgid "Total Sent"
+msgstr "মোট প্রেরিত"
+
+#: public/views/transaction.html
+msgid "Transaction"
+msgstr "লেনদেন"
+
+#: public/views/status.html
+msgid "Transaction Output Set Information"
+msgstr "লেনদেনের আউটপুট তথ্য সেট"
+
+#: public/views/status.html
+msgid "Transaction Outputs"
+msgstr "লেনদেনের আউটপুটসমূহ"
+
+#: public/views/address.html public/views/block.html
+#: public/views/block_list.html public/views/index.html
+#: public/views/status.html
+msgid "Transactions"
+msgstr "লেনদেনসমূহ"
+
+#: public/views/transaction/tx.html
+msgid "Type"
+msgstr "প্রকার"
+
+#: public/views/address.html
+msgid "Unconfirmed"
+msgstr "অনিশ্চিত"
+
+#: public/views/transaction.html public/views/transaction/tx.html
+msgid "Unconfirmed Transaction!"
+msgstr "অনিশ্চিত লেনদেন!"
+
+#: public/views/address.html
+msgid "Unconfirmed Txs Balance"
+msgstr "অনিশ্চিত Txs ব্যালেন্স"
+
+#: public/views/index.html
+msgid "Value Out"
+msgstr "অর্থমূল্য"
+
+#: public/views/block.html public/views/status.html
+msgid "Version"
+msgstr "সংস্করণ"
+
+#: public/views/block_list.html public/views/index.html
+msgid "Waiting for blocks..."
+msgstr "ব্লকের জন্য অপেক্ষা করা হচ্ছে ..."
+
+#: public/views/index.html
+msgid "Waiting for transactions..."
+msgstr "লেনদেনের জন্য অপেক্ষা করা হচ্ছে ..."
+
+#: public/views/block_list.html
+msgid "by date."
+msgstr "তারিখ।"
+
+#: public/views/transaction/tx.html
+msgid "first seen at"
+msgstr "প্রথম দেখা গেছে"
+
+#: public/views/block.html
+msgid "Block Type"
+msgstr "ব্লকের প্রকার"
+
+#: public/views/transaction/tx.html
+msgid "created at"
+msgstr "নির্মিত"
+
+#: public/views/block_list.html
+msgid "found on:"
+msgstr "পাওয়া গেছে:"
+
+#~ msgid "Waiting for blocks"
+#~ msgstr "Esperando bloques"
